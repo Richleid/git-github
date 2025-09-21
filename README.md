@@ -10,6 +10,7 @@ Los proyectos son los siguientes:
 
 este es un cambio desde  la rama: mau_dev blabla agrego más cosas desde local
 
+Mi primera contribución local para GITHUB
 ## lista de ALIAS para usar en un .zshrc 
 ```
 # Git
